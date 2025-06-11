@@ -4,6 +4,7 @@
 
 # 💻 Tech Stack:
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+Tableau,Excel, Python
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sanket-Adsul&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sanket-Adsul&theme=dark&hide_border=false)<br/>
