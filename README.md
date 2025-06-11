@@ -3,8 +3,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanket_adsul_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/sanket-adsul-5453a5243/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adsulsanket33@gmail.com) 
 
 # 💻 Tech Stack:
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sanket-Adsul&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sanket-Adsul&theme=dark&hide_border=false)<br/>
