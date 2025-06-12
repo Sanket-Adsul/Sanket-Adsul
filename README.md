@@ -1,3 +1,11 @@
+# 💫 Hi 👋, I'm Sanket Adsul
+**A passionate Data Analyst**
+
+Email Me 👉 ✉️ **adsulsanket33@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🌱 **I’m currently learning:** Data Analyst Techs.
+- 📫 **How to reach me:** adsulsanket33@gmail.com
+- 😄 **Pronouns:** Sanket
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanket_adsul_) 
